@@ -1,0 +1,2 @@
+Git fetch will download the updated changes from remote repository to intermeditary branch called origin/main.
+           After performing to git merge changes will come to local respository.
